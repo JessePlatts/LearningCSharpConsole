@@ -1,4 +1,4 @@
-﻿using System;
+﻿using LearningCSharpConsole.ProgrammingExercises;
 
 namespace LearningCSharpConsole
 {
@@ -6,8 +6,7 @@ namespace LearningCSharpConsole
     {
         static void Main(string[] args)
         {
-            //stuff
-            Console.WriteLine("Hello World!");
+            SkrimFavoriteClassQuestion.Run();
         }
     }
 }
